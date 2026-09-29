@@ -102,7 +102,7 @@ py -X utf8 run_morning_digest.py
 └── channels.example.txt     # образец списка каналов
 ```
 
-## Скилл для передачи коллегам
+## Скилл по созданию проекта
 
 В репозитории лежит [`.claude/skills/repo-guide.md`](.claude/skills/repo-guide.md) —
 скилл «операционная карта проекта»: как Claude Code разобраться в структуре,
