@@ -1,0 +1,24 @@
+# Секреты — никогда в git
+.env
+
+# Личные данные и рабочие артефакты
+data/
+channels.txt
+digest_*.md
+digest_raw_*.md
+digest_test_*.md
+posts/
+_tmp_*.html
+*_log.txt
+last_dispatch.txt
+tg_offset.txt
+tg_sent_marker.txt
+*.txt.out
+out.txt
+err.txt
+dbg.txt
+set
+
+# Кэш Python
+__pycache__/
+*.pyc

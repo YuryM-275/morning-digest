@@ -1,0 +1,4 @@
+# Зависимости проекта project_news
+# Установка: py -m pip install -r requirements.txt
+mcp>=2.1.0  # MCP SDK v2 (MCPServer) для tg_mcp_server.py — бот общения через Telegram
+# Всё остальное (send_digest.py, fetch_news.py, parse_tg.py, tg_bridge.py) — на stdlib
